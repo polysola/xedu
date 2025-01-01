@@ -35,6 +35,11 @@ export const SiderBar = ({ className }: Props) => {
         />
         <SideBarItem label="quests" href="/quests" iconSrc="/quests.svg" />
         <SideBarItem label="shop" href="/shop" iconSrc="/shop.svg" />
+        <SideBarItem
+          label="redeempoint"
+          href="/redeempoint"
+          iconSrc="/re.png"
+        />
       </div>
       <div className="p-4 flex items-center flex-col">
    <div className="flex gap-x-2 mb-3 ">  

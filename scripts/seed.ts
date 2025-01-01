@@ -27,22 +27,22 @@ const main = async () => {
       {
         id: 1,
         title: "XRP Basics",
-        imageSrc: "/es.svg",
+        imageSrc: "/es.png",
       },
       {
         id: 2,
         title: "XRP Advanced",
-        imageSrc: "/it.svg",
+        imageSrc: "/it.png",
       },
       {
         id: 3,
         title: "XRP DeFi",
-        imageSrc: "/fr.svg",
+        imageSrc: "/fr.png",
       },
       {
         id: 4,
         title: "XRP Development",
-        imageSrc: "/hr.svg",
+        imageSrc: "/hr.png",
       },
     ]);
 
@@ -187,57 +187,57 @@ const main = async () => {
       // Question 1 options
       {
         challengeId: 1,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Satoshi Nakamoto",
       },
       {
         challengeId: 1,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Ripple Labs",
       },
       {
         challengeId: 1,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Vitalik Buterin",
       },
       // Question 2 options
       {
         challengeId: 2,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "2015",
       },
       {
         challengeId: 2,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "2012",
       },
       {
         challengeId: 2,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "2017",
       },
       // Question 3 options
       {
         challengeId: 3,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Smart contracts platform",
       },
       {
         challengeId: 3,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Cross-border payments",
       },
       {
         challengeId: 3,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Digital gold",
       }
@@ -272,57 +272,57 @@ const main = async () => {
       // Question 4 options
       {
         challengeId: 4,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "20 XRP",
       },
       {
         challengeId: 4,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "10 XRP",
       },
       {
         challengeId: 4,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "50 XRP",
       },
       // Question 5 options
       {
         challengeId: 5,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "3-5 seconds",
       },
       {
         challengeId: 5,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "1 minute",
       },
       {
         challengeId: 5,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "10 minutes",
       },
       // Question 6 options
       {
         challengeId: 6,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Given to validators",
       },
       {
         challengeId: 6,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Burned forever",
       },
       {
         challengeId: 6,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Returned to Ripple",
       }
@@ -357,57 +357,57 @@ const main = async () => {
       // Question 7 options
       {
         challengeId: 7,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "RPCA (Ripple Protocol Consensus Algorithm)",
       },
       {
         challengeId: 7,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Proof of Work",
       },
       {
         challengeId: 7,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Proof of Stake",
       },
       // Question 8 options
       {
         challengeId: 8,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "51% of all validators",
       },
       {
         challengeId: 8,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "80% of trusted validators",
       },
       {
         challengeId: 8,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "All validators must agree",
       },
       // Question 9 options
       {
         challengeId: 9,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "10 seconds",
       },
       {
         challengeId: 9,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "3-5 seconds",
       },
       {
         challengeId: 9,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "1 minute",
       }
@@ -442,57 +442,57 @@ const main = async () => {
       // Question 10 options
       {
         challengeId: 10,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Payment gateway",
       },
       {
         challengeId: 10,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Time-locked XRP payments",
       },
       {
         challengeId: 10,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Trading platform",
       },
       // Question 11 options
       {
         challengeId: 11,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Network connection",
       },
       {
         challengeId: 11,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Authorization to hold tokens",
       },
       {
         challengeId: 11,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Validator connection",
       },
       // Question 12 options
       {
         challengeId: 12,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Multiple signatures required for transactions",
       },
       {
         challengeId: 12,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Multiple accounts",
       },
       {
         challengeId: 12,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Multiple currencies",
       }
@@ -527,19 +527,19 @@ const main = async () => {
       // Question 13 options
       {
         challengeId: 13,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Streaming micro-payments",
       },
       {
         challengeId: 13,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Large transactions",
       },
       {
         challengeId: 13,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Token creation",
       },
@@ -549,38 +549,38 @@ const main = async () => {
       // Question 14 options
       {
         challengeId: 14,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Delete account",
       },
       {
         challengeId: 14,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Submit claim and close request",
       },
       {
         challengeId: 14,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Wait for timeout",
       },
       // Question 15 options
       {
         challengeId: 15,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Lower fees",
       },
       {
         challengeId: 15,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Instant settlement off-ledger",
       },
       {
         challengeId: 15,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Better security",
       }
@@ -615,57 +615,57 @@ const main = async () => {
       // Question 16 options
       {
         challengeId: 16,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Trading bot",
       },
       {
         challengeId: 16,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Self-executing liquidity protocol",
       },
       {
         challengeId: 16,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Exchange platform",
       },
       // Question 17 options
       {
         challengeId: 17,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "0.1%",
       },
       {
         challengeId: 17,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "0.2%",
       },
       {
         challengeId: 17,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "0.3%",
       },
       // Question 18 options
       {
         challengeId: 18,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Represent share of liquidity pool",
       },
       {
         challengeId: 18,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Used for governance",
       },
       {
         challengeId: 18,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Traded like normal tokens",
       }
@@ -700,57 +700,57 @@ const main = async () => {
       // Question 19 options
       {
         challengeId: 19,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "web3.js",
       },
       {
         challengeId: 19,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "xrpl.js",
       },
       {
         challengeId: 19,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "ripple-lib",
       },
       // Question 20 options
       {
         challengeId: 20,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "testnet.connect()",
       },
       {
         challengeId: 20,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Client.connect('wss://s.altnet.rippletest.net')",
       },
       {
         challengeId: 20,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "connect('testnet')",
       },
       // Question 21 options
       {
         challengeId: 21,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Class for managing keys and signing",
       },
       {
         challengeId: 21,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "User interface",
       },
       {
         challengeId: 21,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Storage container",
       }
@@ -778,38 +778,38 @@ const main = async () => {
       // Question 22 options
       {
         challengeId: 22,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "makeTransaction()",
       },
       {
         challengeId: 22,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "client.autofill(tx_json)",
       },
       {
         challengeId: 22,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "createTx()",
       },
       // Question 23 options
       {
         challengeId: 23,
-        imageSrc: "/woman.svg",
+        imageSrc: "/qs.png",
         correct: true,
         text: "Automatically add required fields",
       },
       {
         challengeId: 23,
-        imageSrc: "/man.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Fill wallet with XRP",
       },
       {
         challengeId: 23,
-        imageSrc: "/robot.svg",
+        imageSrc: "/qs.png",
         correct: false,
         text: "Complete transaction data",
       }

@@ -29,8 +29,6 @@ export const Items = ({ hearts, points, hasActiveSubscription }: Props) => {
   };
 
   const onUpgrade = () => {
-   toast.error("Not implemented yet");
-    return
     startTransition(() => {
       createStripeUrl()
         .then((response) => {
