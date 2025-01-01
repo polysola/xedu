@@ -32,6 +32,16 @@ export const Promo = () => {
           Upgrade today
         </Link>
       </Button>
+      <Button
+        asChild
+        variant="super"
+        className="w-full"
+        size="lg"
+      >
+        <Link href="">
+          Buy Now
+        </Link>
+      </Button>
     </div>
   );
 };

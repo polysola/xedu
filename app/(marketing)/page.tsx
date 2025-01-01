@@ -19,7 +19,7 @@ export default function Home() {
       </div>
       <div className="flex flex-col items-center gap-y-8">
         <h1 className="text-xl lg:text-3xl font-bold text-neutral-600 max-w-[480px] text-center">
-          Learn, practice, and master new languages with Lingo.
+        XRP Edu is a DAO and community-led protocol building a decentralized education ecosystem on the XRPL platform.
         </h1>
         <div className="flex flex-col items-center gap-y-3 max-w-[330px] w-full">
           <ClerkLoading>
@@ -51,6 +51,22 @@ export default function Home() {
                 </Link>
               </Button>
             </SignedIn>
+            <div className="flex gap-x-2 mb-3 ">  
+          <Link href="https://t.me/XRPEdu_Portal"> <Image
+            src="/tg.png"
+            alt="tg"
+            height={46}
+            width={46}
+          /></Link>
+          <Link href="https://x.com/XRP_Edu">
+          <Image
+            src="/x.png"
+            alt="tg"
+            height={46}
+            width={46}
+          />
+          </Link>
+          </div>
           </ClerkLoaded>
         </div>
       </div>

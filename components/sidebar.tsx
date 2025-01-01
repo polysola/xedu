@@ -20,9 +20,9 @@ export const SiderBar = ({ className }: Props) => {
     >
       <Link href="/learn">
         <div className="pt-8 pl-4 pb-7 flex items-center gap-x-3">
-          <Image src="/mascot.svg" height={40} width={40} alt="Mascot" />
+          <Image src="/logo.png" height={40} width={40} alt="Mascot" />
           <h1 className="text-2xl font-extrabold text-green-600 tracking-wide">
-            Lingo
+          XRP Edu
           </h1>
         </div>
       </Link>
@@ -36,7 +36,23 @@ export const SiderBar = ({ className }: Props) => {
         <SideBarItem label="quests" href="/quests" iconSrc="/quests.svg" />
         <SideBarItem label="shop" href="/shop" iconSrc="/shop.svg" />
       </div>
-      <div className="p-4">
+      <div className="p-4 flex items-center flex-col">
+   <div className="flex gap-x-2 mb-3 ">  
+          <Link href="https://t.me/XRPEdu_Portal"> <Image
+            src="/tg.png"
+            alt="tg"
+            height={46}
+            width={46}
+          /></Link>
+          <Link href="https://x.com/XRP_Edu">
+          <Image
+            src="/x.png"
+            alt="tg"
+            height={46}
+            width={46}
+          />
+          </Link>
+          </div>
         <ClerkLoading>
           <Loader className="h-5 w-5 text-muted-foreground animate-spin" />
         </ClerkLoading>
