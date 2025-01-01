@@ -71,12 +71,12 @@ const LearderboardPage = async () => {
               >
                 <AvatarImage
                   className="object-cover"
-                  src={userProgress.userImageSrc}
+                  src="/es.png"
                 />
               </Avatar>
-              <p className="font-bold text-neutral-800 flex-1">
+              {/* <p className="font-bold text-neutral-800 flex-1">
                 {userProgress.userName}
-              </p>
+              </p> */}
               <p className="text-muted-foreground">
                 {userProgress.points} XP
               </p>
