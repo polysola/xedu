@@ -46,15 +46,15 @@ export const SiderBar = ({ className }: Props) => {
           <Link href="https://t.me/XRPEdu_Portal"> <Image
             src="/tg.png"
             alt="tg"
-            height={46}
-            width={46}
+            height={36}
+            width={36}
           /></Link>
           <Link href="https://x.com/XRP_Edu">
           <Image
             src="/x.png"
             alt="tg"
-            height={46}
-            width={46}
+            height={36}
+            width={36}
           />
           </Link>
           </div>
