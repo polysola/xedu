@@ -38,7 +38,7 @@ export const Promo = () => {
         className="w-full"
         size="lg"
       >
-        <Link href="">
+        <Link href="https://firstledger.net/token/rwQDs6UkbvWhVKALV9yMQ6BEBxyGTYzMXz/5845445500000000000000000000000000000000">
           Buy Now
         </Link>
       </Button>
